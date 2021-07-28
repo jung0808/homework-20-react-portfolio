@@ -4,6 +4,8 @@
   background-color: #66ffff;
   padding: 30px;
   flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .ending {
